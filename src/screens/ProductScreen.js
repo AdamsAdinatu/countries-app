@@ -1,11 +1,11 @@
 import React from 'react'
 
-function ContactScreen() {
+function ProductScreen() {
   return (
     <div>
-    
+      
     </div>
   )
 }
 
-export default ContactScreen
+export default ProductScreen
